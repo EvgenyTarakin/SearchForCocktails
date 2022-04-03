@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire",
+        "state": {
+          "branch": "master",
+          "revision": "6eeff3c57e02f07c8494433aed8bf90532010089",
+          "version": null
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit",
+        "state": {
+          "branch": "develop",
+          "revision": "eb07a3adf535ec6e87d450453471f69c053a48f1",
+          "version": null
+        }
+      },
+      {
+        "package": "TagListView",
+        "repositoryURL": "https://github.com/ElaWorkshop/TagListView",
+        "state": {
+          "branch": null,
+          "revision": "b30b61826736f4d9ec04aef5df891f3914423f16",
+          "version": "1.4.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
